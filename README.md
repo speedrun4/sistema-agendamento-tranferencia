@@ -1,6 +1,6 @@
-<h1>SGT - Sistema de Agendamento de Transferencia Financeira</h1>
+<h1>Agendamento de Transferencia Financeira</h1>
 
-<p>Sistema para agendamento de transferencia financeira criado para exercitar tecnicas como SPA(Single Page Aplication), Javascript, HTML5 , CSS3, TDD, Java, Rest.</p>
+<p>Sistema para agendamento de transferencia financeira criado para Teste tecnico, Javascript, HTML5 , CSS3, TDD, Java, Rest.</p>
 
 <h2>Tecnicas Utilizadas</h2>
 
